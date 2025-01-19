@@ -220,10 +220,8 @@ const Portfolio = () => {
               data-aos="zoom-in-right"
               data-aos-duration="6000"
             >
-              Developed a Uber-inspired web application using React,
-              emphasizing an engaging user interface. The project showcases my
-              proficiency in React and a commitment to seamlessly integrating
-              functionality with user satisfaction.
+             A grocery app is a mobile or web-based app that allows users to order groceries online. 
+              Users can browse products, add them to their cart, and choose a delivery time and locationction.
             </p>
             <div className="project_link">
               <a
